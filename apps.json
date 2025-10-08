@@ -1,0 +1,116 @@
+{
+  "apps": [
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "category": "Messaging",
+      "description": "Private & group messaging.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/whatsapp-arm64.apk"
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "packageName": "com.spotify.music",
+      "category": "Music",
+      "description": "Music streaming service.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/spotify-arm64.apk"
+    },
+    {
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "packageName": "com.soundcloud.android",
+      "category": "Music",
+      "description": "Discover and share music.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/soundcloud-arm64.apk"
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail",
+      "packageName": "com.google.android.gm",
+      "category": "Work",
+      "description": "Email by Google.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/gmail-arm64.apk"
+    },
+    {
+      "id": "authenticator",
+      "name": "Microsoft Authenticator",
+      "packageName": "com.azure.authenticator",
+      "category": "Work",
+      "description": "Two-factor authentication.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/authenticator-arm64.apk"
+    },
+    {
+      "id": "waze",
+      "name": "Waze",
+      "packageName": "com.waze",
+      "category": "Maps",
+      "description": "Community-based navigation.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/waze-arm64.apk"
+    },
+    {
+      "id": "googlemaps",
+      "name": "Google Maps",
+      "packageName": "com.google.android.apps.maps",
+      "category": "Maps",
+      "description": "Navigation and local search.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/googlemaps-arm64.apk"
+    },
+    {
+      "id": "cabify",
+      "name": "Cabify",
+      "packageName": "com.cabify.rider",
+      "category": "Transport",
+      "description": "Ride-hailing in Spain & LATAM.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/cabify-arm64.apk"
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "packageName": "com.ubercab",
+      "category": "Transport",
+      "description": "Ride-hailing.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/uber-arm64.apk"
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "packageName": "ee.mtakso.client",
+      "category": "Transport",
+      "description": "Ride-hailing.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/bolt-arm64.apk"
+    },
+    {
+      "id": "glovo",
+      "name": "Glovo",
+      "packageName": "com.glovo",
+      "category": "Food",
+      "description": "Food & delivery.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/glovo-arm64.apk"
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "packageName": "com.revolut.revolut",
+      "category": "Banks",
+      "description": "Money management.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/revolut-arm64.apk"
+    },
+    {
+      "id": "honorhealth",
+      "name": "Honor Health",
+      "packageName": "com.hihonor.health",
+      "category": "Health",
+      "description": "Health & fitness tracking.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/honorhealth-arm64.apk"
+    },
+    {
+      "id": "goodnotes",
+      "name": "GoodNotes",
+      "packageName": "com.goodnotes.android",
+      "category": "Notes",
+      "description": "Notes and to-do lists.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.0/goodnotes-arm64.apk"
+    }
+  ]
+}
