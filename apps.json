@@ -6,7 +6,7 @@
       "packageName": "com.whatsapp",
       "category": "Messaging",
       "description": "Private & group messaging.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/whatsapp-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/whatsapp-arm64.apk"
     },
     {
       "id": "spotify",
@@ -14,7 +14,7 @@
       "packageName": "com.spotify.music",
       "category": "Music",
       "description": "Music streaming service.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/spotify-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/spotify-arm64.apk"
     },
     {
       "id": "soundcloud",
@@ -22,7 +22,7 @@
       "packageName": "com.soundcloud.android",
       "category": "Music",
       "description": "Discover and share music.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/soundcloud-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/soundcloud-arm64.apk"
     },
     {
       "id": "gmail",
@@ -30,7 +30,7 @@
       "packageName": "com.google.android.gm",
       "category": "Work",
       "description": "Email by Google.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/gmail-arm64.com"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/gmail-arm64.apk"
     },
     {
       "id": "authenticator",
@@ -38,7 +38,7 @@
       "packageName": "com.azure.authenticator",
       "category": "Work",
       "description": "Two-factor authentication.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/authenticator-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/authenticator-arm64.apk"
     },
     {
       "id": "waze",
@@ -46,7 +46,7 @@
       "packageName": "com.waze",
       "category": "Maps",
       "description": "Community-based navigation.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/waze-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/waze-arm64.apk"
     },
     {
       "id": "googlemaps",
@@ -54,7 +54,7 @@
       "packageName": "com.google.android.apps.maps",
       "category": "Maps",
       "description": "Navigation and local search.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/googlemaps-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/googlemaps-arm64.apk"
     },
     {
       "id": "cabify",
@@ -62,7 +62,7 @@
       "packageName": "com.cabify.rider",
       "category": "Transport",
       "description": "Ride-hailing in Spain & LATAM.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/cabify-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/cabify-arm64.apk"
     },
     {
       "id": "uber",
@@ -70,7 +70,7 @@
       "packageName": "com.ubercab",
       "category": "Transport",
       "description": "Ride-hailing.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/uber-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/uber-arm64.apk"
     },
     {
       "id": "bolt",
@@ -78,7 +78,7 @@
       "packageName": "ee.mtakso.client",
       "category": "Transport",
       "description": "Ride-hailing.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/bolt-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/bolt-arm64.apk"
     },
     {
       "id": "glovo",
@@ -86,7 +86,7 @@
       "packageName": "com.glovo",
       "category": "Food",
       "description": "Food & delivery.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/glovo-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/glovo-arm64.apk"
     },
     {
       "id": "revolut",
@@ -94,7 +94,7 @@
       "packageName": "com.revolut.revolut",
       "category": "Banks",
       "description": "Money management.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/revolut-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/revolut-arm64.apk"
     },
     {
       "id": "honorhealth",
@@ -102,23 +102,15 @@
       "packageName": "com.hihonor.health",
       "category": "Health",
       "description": "Health & fitness tracking.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/honorhealth-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/honorhealth-arm64.apk"
     },
     {
-      "id": "GoogleKeep",
-      "name": "GoogleKeep",
-      "packageName": "com.goodnotes.android",
+      "id": "googlekeep",
+      "name": "Google Keep",
+      "packageName": "com.google.android.keep",
       "category": "Notes",
       "description": "Notes and to-do lists.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/googlekeep-arm64.apk"
-    },
-    {
-      "id": "deepsseek",
-      "name": "DeepSeek",
-      "packageName": "com.deepsseek.chat",
-      "category": "AI",
-      "description": "Chat powered by DeepSeek.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/deepseek-arm64.com"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/googlekeep-arm64.apk"
     },
     {
       "id": "bbva",
@@ -126,7 +118,15 @@
       "packageName": "pe.bbvacontinental.mimundo",
       "category": "Banks",
       "description": "BBVA banking app.",
-      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.2/bbva-arm64.apk"
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/bbva-arm64.apk"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "packageName": "com.deepseek.chat",
+      "category": "AI",
+      "description": "Chat powered by DeepSeek.",
+      "apk_url": "https://github.com/priveraieu2020-design/dood-apks/releases/download/v1.3/deepseek-arm64.apk"
     }
   ]
 }
