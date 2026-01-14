@@ -1,0 +1,34 @@
+{
+  "catalogVersion": 1,
+  "backend": {
+    "type": "github",
+    "repo": "priveraieu2020-design/dood-apks"
+  },
+  "updatePolicy": {
+    "checkIntervalMinutes": 60,
+    "wifiOnly": true,
+    "notifyOnly": true
+  },
+  "apps": [
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "category": "Messaging",
+      "description": "Private & group messaging.",
+      "assetName": "whatsapp-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "packageName": "com.spotify.music",
+      "category": "Music",
+      "description": "Music streaming service.",
+      "assetName": "spotify-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    }
+  ]
+}
