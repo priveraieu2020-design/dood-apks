@@ -29,6 +29,147 @@
       "assetName": "spotify-arm64.apk",
       "abi": "arm64-v8a",
       "minSdk": 26
+    },
+    {
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "packageName": "com.soundcloud.android",
+      "category": "Music",
+      "description": "Discover and share music.",
+      "assetName": "soundcloud-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail",
+      "packageName": "com.google.android.gm",
+      "category": "Work",
+      "description": "Email by Google.",
+      "assetName": "gmail-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "authenticator",
+      "name": "Microsoft Authenticator",
+      "packageName": "com.azure.authenticator",
+      "category": "Work",
+      "description": "Two-factor authentication.",
+      "assetName": "authenticator-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "waze",
+      "name": "Waze",
+      "packageName": "com.waze",
+      "category": "Maps",
+      "description": "Community-based navigation.",
+      "assetName": "waze-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "googlemaps",
+      "name": "Google Maps",
+      "packageName": "com.google.android.apps.maps",
+      "category": "Maps",
+      "description": "Navigation and local search.",
+      "assetName": "googlemaps-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "cabify",
+      "name": "Cabify",
+      "packageName": "com.cabify.rider",
+      "category": "Transport",
+      "description": "Ride-hailing in Spain & LATAM.",
+      "assetName": "cabify-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "packageName": "com.ubercab",
+      "category": "Transport",
+      "description": "Ride-hailing.",
+      "assetName": "uber-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "packageName": "ee.mtakso.client",
+      "category": "Transport",
+      "description": "Ride-hailing.",
+      "assetName": "bolt-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "glovo",
+      "name": "Glovo",
+      "packageName": "com.glovo",
+      "category": "Food",
+      "description": "Food & delivery.",
+      "assetName": "glovo-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "packageName": "com.revolut.revolut",
+      "category": "Banks",
+      "description": "Money management.",
+      "assetName": "revolut-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "honorhealth",
+      "name": "Honor Health",
+      "packageName": "com.hihonor.health",
+      "category": "Health",
+      "description": "Health & fitness tracking.",
+      "assetName": "honorhealth-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "googlekeep",
+      "name": "Google Keep",
+      "packageName": "com.google.android.keep",
+      "category": "Notes",
+      "description": "Notes and to-do lists.",
+      "assetName": "googlekeep-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "bbva",
+      "name": "BBVA",
+      "packageName": "pe.bbvacontinental.mimundo",
+      "category": "Banks",
+      "description": "BBVA banking app.",
+      "assetName": "bbva-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "packageName": "com.deepseek.chat",
+      "category": "AI",
+      "description": "Chat powered by DeepSeek.",
+      "assetName": "deepseek-arm64.apk",
+      "abi": "arm64-v8a",
+      "minSdk": 26
     }
   ]
 }
+
