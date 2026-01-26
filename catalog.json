@@ -11,6 +11,16 @@
   },
   "apps": [
     {
+  "id": "dood-demoapp",
+  "name": "DooD Demo App",
+  "packageName": "com.dood.demotest",
+  "category": "Demo",
+  "description": "Demo app para probar actualizaciones de DooDStore.",
+  "assetName": "dood-demoapp-arm64.apk",
+  "abi": "arm64-v8a",
+  "minSdk": 26
+    },
+    {
       "id": "whatsapp",
       "name": "WhatsApp",
       "packageName": "com.whatsapp",
