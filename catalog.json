@@ -18,7 +18,7 @@
   "description": "Demo app para probar actualizaciones de DooDStore.",
   "assetName": "dood-demoapp-arm64.apk",
   "abi": "arm64-v8a",
-  "minSdk": 26
+  "minSdk": 26,
   "versionCode" : 5
     },
     {
